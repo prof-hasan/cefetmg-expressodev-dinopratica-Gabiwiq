@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(153, 194, 87, 0.788);
+    font-family:Verdana;
+}
+div{
+    border: 1px solid green;
+    background-color: white;
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 15px;
+}
+h1{
+    color:rgb(220, 245, 174);
+    text-align: center;
