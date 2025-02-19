@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: rgba(153, 194, 87, 0.788);
     font-family:Verdana;
 }
 div{
@@ -10,6 +10,5 @@ div{
     border-radius: 15px;
 }
 h1{
-    color:green;
+    color:rgb(220, 245, 174);
     text-align: center;
-}
